@@ -3,16 +3,15 @@
 <br>
 
 #HSLIDE
-Em um belo final de semana você precisou:
+#### <span style="color: #e49436">Em um belo final de semana você precisou</span>
 + Comprar um Lanche de uma "Hamburgueria" e não entrega.
 + Uma corrida de moto taxi, mas não sabia o número, "Saída da balada".
 + Um medicamento e o estabelicimento não fazia entrega.
-+ Ou você sempre utiliza algum serviço de entrega e sempre tem que ficar ligando. 
++ Ou você sempre utiliza algum serviço de entrega e sempre tem que ficar ligando.
 <br>
 
 #HSLIDE
 #### <span style="color: #e49436">Vantagens</span>
-<br>
 + Redução de custo com funcionario *Ocioso*.
 + Agendamentos de entregas.
 + Os melhores entregadores a sua disposição.
