@@ -1,2 +1,15 @@
 theme : black
 autoslide : 5500
+name: "Bitbucket"
+services = [
+        {
+            name        = "Bitbucket"
+            type        = "bitbucket"
+            site        = "https://bitbucket.org/"
+            apibase     = "https://api.bitbucket.org/2.0/"
+            apitoken    = "YOUR-BITBUCKET-ACCESS-TOKEN-HERE"
+            apitokenheader    = "Authorization"
+            rawbase     = "https://bitbucket.org/"
+            default     = "false"
+        }
+    ]
