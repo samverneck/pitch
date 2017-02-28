@@ -4,8 +4,8 @@
 
 #HSLIDE
 #### <span style="color: #e49436">Em um belo final de semana você precisou</span>
-+ Comprar um Lanche de uma "Hamburgueria" e não entrega.
-+ Uma corrida de moto taxi, mas não sabia o número, "Saída da balada".
++ Comprar um Lanche e a ```Hamburgueria``` não fazia entrega.
++ Uma corrida de moto taxi, mas VOCÊ não sabia o número, "Saída da balada".
 + Um medicamento e o estabelicimento não fazia entrega.
 + Ou você sempre utiliza algum serviço de entrega e sempre tem que ficar ligando.
 <br>
