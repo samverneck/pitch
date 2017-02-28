@@ -2,10 +2,27 @@
 #### <span style="color: #e49436">Uma breve história</span>
 <br>
 
+#HSLIDE
+Em um belo final de semana você precisou:
++ Comprar um Lanche de uma "Hamburgueria" e não entrega.
++ Uma corrida de moto taxi, mas não sabia o número, "Saída da balada".
++ Um medicamento e o estabelicimento não fazia entrega.
++ Ou você sempre utiliza algum serviço de entrega e sempre tem que ficar ligando. 
+<br>
 
-
-
-
+#HSLIDE
+#### <span style="color: #e49436">Vantagens</span>
+<br>
++ Redução de custo com funcionario *Ocioso*.
++ Agendamentos de entregas.
++ Os melhores entregadores a sua disposição.
++ Escolha o entregador mais proxímo.
++ Não há vínculo empregatício
++ Não há custo com manutenção.
++ Não precisa de veículo próprio.
++ Obter um plano ou cobrança por corrida.
++ Peça o serviço que cuidamos do resto pra você.
++ Possibilidade de contrato para seguros.
 
 #HSLIDE
 <!-- .slide: data-autoslide="10000" -->
